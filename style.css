@@ -1,0 +1,10 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#profile-image {
+    width: 400px;
+    height: 400px;
+    background-size: cover; 
+}
